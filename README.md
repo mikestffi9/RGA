@@ -1,2 +1,0 @@
-# RGA
-My awesome repository
